@@ -1,0 +1,22 @@
+{
+  "name": "test-greenkeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamDeltaQuadrant/test-greenkeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamDeltaQuadrant/test-greenkeeper/issues"
+  },
+  "homepage": "https://github.com/TeamDeltaQuadrant/test-greenkeeper#readme",
+  "dependencies": {
+    "lodash": "4.0.0"
+  }
+}
