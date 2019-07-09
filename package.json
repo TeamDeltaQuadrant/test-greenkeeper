@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/TeamDeltaQuadrant/test-greenkeeper#readme",
   "dependencies": {
-    "lodash": "4.17.4"
+    "lodash": "4.17.12"
   }
 }
